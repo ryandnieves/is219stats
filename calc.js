@@ -1,6 +1,6 @@
 const ops = require('./ops')
 
-module.exports = class {
+module.exports = class Claculator {
   constructor () {
     this.result = NaN
   }
