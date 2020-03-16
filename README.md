@@ -1,6 +1,6 @@
 # is219stats
 
-## A simple statistical calculator
+A simple statistical calculator
 
 ### TODO
 - [x] Generate a random number
